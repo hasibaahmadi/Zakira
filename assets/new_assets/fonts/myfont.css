@@ -1,0 +1,43 @@
+@font-face {
+     font-family:'b';
+     src:url('Nazanin Normal_ Emperor.Ir.TTF');
+	 
+ }
+@font-face {
+  font-family:'a';
+  src:url('adobearabic-aegular.otf');
+}
+
+ #body,#title{
+ 	font-family: 'a';
+ 	
+ 	font-size: 24px;
+
+
+ }    
+ #course_title{
+ 	font-family: 'a';
+ 	font-weight: bold;
+ 	text-align: center;
+ }
+ #navigation_li{
+ 	font-family: 'a';
+ 	font-size: 21px;
+ }
+ .navigation_sub_li{
+ 	font-family: 'a';
+ 	font-size: 18px;
+ }
+ #post_header,#post_title,#post_desc{
+ 	font-family: 'a';
+ }
+ #post_header,#post_title{
+font-size: 22px;
+ }
+#post_desc{
+font-size: 20px;
+}
+.user_list{
+	font-family: 'a';
+	font-size: 21px;
+}

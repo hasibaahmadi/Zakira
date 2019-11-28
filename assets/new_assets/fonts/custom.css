@@ -1,0 +1,42 @@
+
+@font-face {
+font-family: persian_font;
+src: url("BYekan.TTF");
+
+    }
+
+
+@font-face {
+	font-family: sidebarFont;
+	src: url("BTITRBD.TTF");
+	
+
+    }
+    @font-face {
+  font-family:'a';
+  src:url('adobearabic-aegular.otf');
+}
+
+@font-face {
+	font-family: for-title;
+	src: url("BHoma.TTF");
+	font-weight: bold;
+
+    }
+.list_user,#list_user{
+  	font-family: for-title;
+  	font-size: 20px;
+ 
+
+}
+#messege_box_username{
+font-family: for-title;
+font-size: 15px;
+}
+#messege_box_messege{
+font-family: for-title;
+}
+#member_request{
+ font-family: 'a';
+ font-size:20px; 
+}

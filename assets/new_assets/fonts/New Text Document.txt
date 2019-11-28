@@ -1,0 +1,17 @@
+@font-face {
+     font-family:'b';
+     src:url('Nazanin Normal_ Emperor.Ir.TTF');
+	 
+     }
+     	 @font-face {
+  font-family:'a';
+  src:url('adobearabic-aegular.otf');
+}
+
+ #body,#title{
+ 	font-family: 'a';
+ 	
+ 	font-size: 24px;
+
+
+ }    
